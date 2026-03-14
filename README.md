@@ -1,40 +1,47 @@
-## Justin Adame  
-Frontend Developer (React) & UI/UX Designer  
+# Hey, I'm Justin Adame
 
-Building scalable, user-focused web applications.
+**UX Designer & Frontend Developer — Austin, TX**
 
----
+Twenty years behind a bar at Emo's, The Ritz, and Liberty Bar taught me how to read people fast, solve problems under pressure, and make every interaction feel effortless. Turns out that's exactly what UX is. I didn't realize it until I started studying it.
 
-### 👨‍💻 About Me
-
-- 🌍 Based in the United States  
-- 📍 Austin, TX  
-- 🌐 Portfolio: https://justinadame.com  
-- ✉️ Contact: jradame@gmail.com  
-- 🚀 Currently building: SkinStric – Dermatology Web Application  
-- 🤝 Open to frontend and UI/UX-focused opportunities  
-
-I’m a frontend developer focused on building accessible, high-performance web applications.  
-
-Recently delivered a production-ready application for **SkinStric**, combining clean UI design with scalable frontend architecture.  
-
-I care deeply about the intersection of design and engineering—creating interfaces that are intuitive, performant, and built to scale.
+Now I build the things I used to wish existed.
 
 ---
 
-### 🛠 Tech Stack
+### What I'm Working On
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,firebase,nodejs,figma)
+- 🐾 **[PawFind](https://pawfind-xi.vercel.app/)** — Full-stack pet adoption platform. Next.js, TypeScript, PostgreSQL, Prisma, Clerk, Stripe. A real product, not a tutorial.
+- 🌊 **[Swell](https://swell-beta.vercel.app/)** — Mobile-first surf session tracker. React, Vite, custom design system.
+- 🍺 **Happy Hour** — Austin happy hour finder with map API, live data, and search. In progress.
 
 ---
 
-### 🌐 Connect
+### Stack
 
-<p align="left">
-<a href="https://github.com/jradame" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/justin-adame-022b6b97/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="32" />
-</a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+### Certs
+
+- Google UX Design Certificate — Coursera
+- Frontend Simplified Certificate — FES Institute
+- Complete Frontend Development — Colt Steele, Udemy
+
+---
+
+### Connect
+
+- 🌐 [justinadame.com](https://justinadame.com)
+- 💼 [linkedin.com/in/justin-adame](https://www.linkedin.com/in/justin-adame/)
+- 📧 jradame@gmail.com
+
+---
+
+*Open to UX design roles, frontend dev positions, and freelance projects. Based in Austin — remote friendly.*
