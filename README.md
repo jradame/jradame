@@ -12,7 +12,7 @@ Now I build the things I used to wish existed.
 
 - 🐾 **[PawFind](https://pawfind-xi.vercel.app/)** — Full-stack pet adoption platform. Next.js, TypeScript, PostgreSQL, Prisma, Clerk, Stripe. A real product, not a tutorial.
 - 🌊 **[Swell](https://swell-beta.vercel.app/)** — Mobile-first surf session tracker. React, Vite, custom design system.
-- 🍺 **Happy Hour** — Austin happy hour finder with map API, live data, and search. In progress.
+- 📊 TipTrack — React Native tip tracking app for bartenders. Live on the App Store.
 
 ---
 
